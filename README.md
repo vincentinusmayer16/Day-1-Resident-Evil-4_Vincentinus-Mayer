@@ -62,9 +62,9 @@ Dokumentasi materi workshop terbagi ke dalam dua pilar utama pembelajaran:
            ┌────────────────────────────┴───────────────────────────┐
            ▼                                                         ▼
 ┌─────────────────────────────┐                         ┌─────────────────────────────┐
-│   Topik 1: Prompt AI        │                         │  Topik 2: Git & GitHub VCS  │
+│   Topik 1: Prompt AI        │                         │  Topik 2: Git & GitHub VSC  │
 ├─────────────────────────────┤                         ├─────────────────────────────┤
-│ • 4 Pilar Prompt Engineering│                         │ • Linus Torvalds & VCS      │
+│ • 4 Pilar Prompt Engineering│                         │ • Linus Torvalds & VSC      │
 │ • Manfaat & Reduksi Bias    │                         │ • 3 Working Areas           │
 │ • Predictability & Kontrol  │                         │ • Siklus Kerja & Perintah   │
 └─────────────────────────────┘                         └─────────────────────────────┘
