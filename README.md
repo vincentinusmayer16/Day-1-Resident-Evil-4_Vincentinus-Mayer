@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Identitas Peserta
+## Identitas Peserta
 
 | Data | Keterangan |
 | :--- | :--- |
