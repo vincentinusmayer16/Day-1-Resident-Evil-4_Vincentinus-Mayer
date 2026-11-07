@@ -21,7 +21,7 @@
 
 ---
 
-## 📖 Deskripsi Singkat Repository
+## Deskripsi Singkat Repository
 
 Repository ini dibuat secara publik (*Public*) sebagai sarana dokumentasi resmi, penyimpanan materi, catatan pembelajaran, dan bukti pelaksanaan proyek mandiri selama mengikuti rangkaian kegiatan **Workshop Day 1 EXPECTIK 2026 (Exploration and Perception Week of TIK / TIK Mengajar)** yang diselenggarakan oleh **HIMATIK Politeknik Negeri Jakarta**.
 
