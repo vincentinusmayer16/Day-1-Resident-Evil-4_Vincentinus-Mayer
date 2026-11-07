@@ -29,7 +29,7 @@ Melalui repository ini, seluruh catatan materi mengenai *Artificial Intelligence
 
 ---
 
-## 🎯 Tujuan dan Kegunaan Repository
+## Tujuan dan Kegunaan Repository
 
 1. **Pemenuhan Misi Penugasan:** Memenuhi penugasan individu pada agenda *Day 1 Proyek Workshop EXPECTIK 2026* dengan mematuhi seluruh rubrik penilaian dan ketentuan nama repository.
 2. **Pemanfaatan Cloud Version Control:** Menerapkan praktik nyata pengelolaan repository berbasis Git dan GitHub secara mandiri dengan visibilitas *Public*.
@@ -38,7 +38,7 @@ Melalui repository ini, seluruh catatan materi mengenai *Artificial Intelligence
 
 ---
 
-## 🗓️ Informasi Kegiatan Workshop
+## Informasi Kegiatan Workshop
 
 - **Nama Agenda:** Workshop Day 1 — EXPECTIK 2026 (*Exploration and Perception Week of TIK / TIK Mengajar*)
 - **Penyelenggara:** Himpunan Mahasiswa Teknik Informatika dan Komputer (HIMATIK) Politeknik Negeri Jakarta
@@ -50,7 +50,7 @@ Melalui repository ini, seluruh catatan materi mengenai *Artificial Intelligence
 
 ---
 
-## 📚 Dokumentasi dan Rangkuman Materi Workshop
+## Dokumentasi dan Rangkuman Materi Workshop
 
 Dokumentasi materi workshop terbagi ke dalam dua pilar utama pembelajaran:
 
@@ -148,7 +148,7 @@ Arsitektur internal Git membagi berkas ke dalam tiga lapisan area kerja:
 
 ---
 
-## 💡 Poin-Poin Penting dan Pengetahuan Baru (Key Learnings)
+## Poin-Poin Penting dan Pengetahuan Baru (Key Learnings)
 
 1. **Pentingnya Riwayat Perubahan Terstruktur:**  
    Menyadari bahwa mengandalkan salinan berkas manual seperti `tugas_final_rev2.zip` rawan redundansi dan kehilangan data. Git memberikan riwayat atomik (*atomic commits*) yang aman dan dapat dilacak kapan pun dibutuhkan.
@@ -161,7 +161,7 @@ Arsitektur internal Git membagi berkas ke dalam tiga lapisan area kerja:
 
 ---
 
-## 📂 Struktur Direktori Repositori
+## Struktur Direktori Repositori
 
 ```text
 Day-1-(Resident Evil 4)_Vincentinus Mayer/
@@ -171,7 +171,7 @@ Day-1-(Resident Evil 4)_Vincentinus Mayer/
 
 ---
 
-## 🚀 Panduan Kloning dan Penggunaan
+## Panduan Kloning dan Penggunaan
 
 Bagi evaluator, mentor, maupun rekan mahasiswa yang ingin menguji dan meninjau repositori ini secara lokal, silakan jalankan perintah terminal berikut:
 
